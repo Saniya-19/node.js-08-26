@@ -1,0 +1,22 @@
+{
+  "name": "node.js-08-26",
+  "version": "1.0.0",
+  "description": "serv",
+  "homepage": "https://github.com/Saniya-19/node.js-08-26#readme",
+  "bugs": {
+    "url": "https://github.com/Saniya-19/node.js-08-26/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saniya-19/node.js-08-26.git"
+  },
+  "license": "ISC",
+  "author": "saniya",
+  "type": "commonjs",
+  "main": "server.js",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
+ 
