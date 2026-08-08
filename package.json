@@ -1,7 +1,8 @@
 {
   "name": "node.js-08-26",
   "version": "1.0.0",
-  "description": "serv",
+  "description": "",
+  "keywords": [],
   "homepage": "https://github.com/Saniya-19/node.js-08-26#readme",
   "bugs": {
     "url": "https://github.com/Saniya-19/node.js-08-26/issues"
@@ -11,12 +12,16 @@
     "url": "git+https://github.com/Saniya-19/node.js-08-26.git"
   },
   "license": "ISC",
-  "author": "saniya",
+  "author": "",
   "type": "commonjs",
   "main": "server.js",
- 
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
   }
 }
- 
